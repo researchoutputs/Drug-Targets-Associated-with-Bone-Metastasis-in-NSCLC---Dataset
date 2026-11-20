@@ -1,0 +1,273 @@
+record_type,gene_symbol,source_gene,target_gene,interaction_type,interaction_weight,evidence_source
+signature_gene,PADI4,,,,,
+signature_gene,ELANE,,,,,
+signature_gene,MPO,,,,,
+signature_gene,PRTN3,,,,,
+signature_gene,FCGR2A,,,,,
+signature_gene,TNFAIP3,,,,,
+signature_gene,FPR2,,,,,
+signature_gene,PI3,,,,,
+signature_gene,IL1B,,,,,
+signature_gene,CXCL8,,,,,
+signature_gene,CXCR2,,,,,
+signature_gene,MMP9,,,,,
+signature_gene,CYBB,,,,,
+signature_gene,NCF2,,,,,
+signature_gene,NCF1,,,,,
+signature_gene,NCF4,,,,,
+signature_gene,CYBA,,,,,
+signature_gene,S100A8,,,,,
+signature_gene,S100A9,,,,,
+signature_gene,S100A12,,,,,
+signature_gene,CSF3R,,,,,
+signature_gene,FCGR3B,,,,,
+signature_gene,CXCL1,,,,,
+signature_gene,CXCL2,,,,,
+signature_gene,IL6,,,,,
+signature_gene,TNF,,,,,
+signature_gene,NLRP3,,,,,
+signature_gene,CASP1,,,,,
+signature_gene,CASP4,,,,,
+signature_gene,GSDMD,,,,,
+signature_gene,HMGB1,,,,,
+signature_gene,TLR2,,,,,
+signature_gene,TLR4,,,,,
+signature_gene,ITGAM,,,,,
+signature_gene,SELL,,,,,
+signature_gene,CD44,,,,,
+signature_gene,LCN2,,,,,
+signature_gene,CAMP,,,,,
+signature_gene,LTF,,,,,
+signature_gene,DEFA1,,,,,
+signature_gene,ORM1,,,,,
+signature_gene,MMP8,,,,,
+signature_gene,MMP25,,,,,
+signature_gene,SOD2,,,,,
+signature_gene,ICAM1,,,,,
+signature_gene,CCL3,,,,,
+signature_gene,CCL4,,,,,
+signature_gene,IL1RN,,,,,
+signature_gene,OSM,,,,,
+signature_gene,TREM1,,,,,
+signature_gene,G0S2,,,,,
+signature_gene,CD177,,,,,
+interaction,,FCGR2A,TNFAIP3,Regulatory association,0.85,Unverified_placeholder
+interaction,,TNFAIP3,FPR2,Regulatory association,0.72,Unverified_placeholder
+interaction,,FPR2,PI3,Molecular association,0.78,Unverified_placeholder
+interaction,,PADI4,MPO,Functional association,0.91,Unverified_placeholder
+interaction,,ELANE,PRTN3,Functional association,0.88,Unverified_placeholder
+interaction,,OSM,TLR4,Functional association,0.45,Unverified_placeholder
+interaction,,MPO,CCL3,Co-expression,0.3,Unverified_placeholder
+interaction,,MMP25,TNF,Molecular association,0.5,Unverified_placeholder
+interaction,,S100A8,ORM1,Regulatory association,0.59,Unverified_placeholder
+interaction,,IL6,NLRP3,Co-expression,0.82,Unverified_placeholder
+interaction,,CASP4,LCN2,Co-expression,0.44,Unverified_placeholder
+interaction,,SOD2,IL1B,Regulatory association,0.32,Unverified_placeholder
+interaction,,TLR2,PI3,Molecular association,0.9,Unverified_placeholder
+interaction,,TLR4,MMP8,Molecular association,0.46,Unverified_placeholder
+interaction,,CD177,NLRP3,Regulatory association,0.75,Unverified_placeholder
+interaction,,ICAM1,CXCR2,Regulatory association,0.84,Unverified_placeholder
+interaction,,SELL,S100A9,Regulatory association,0.87,Unverified_placeholder
+interaction,,CXCL8,NLRP3,Functional association,0.78,Unverified_placeholder
+interaction,,IL6,SOD2,Functional association,0.63,Unverified_placeholder
+interaction,,TLR2,CCL3,Functional association,0.34,Unverified_placeholder
+interaction,,CYBA,HMGB1,Co-expression,0.55,Unverified_placeholder
+interaction,,PI3,GSDMD,Functional association,0.69,Unverified_placeholder
+interaction,,CXCL1,ITGAM,Regulatory association,0.59,Unverified_placeholder
+interaction,,MPO,CSF3R,Co-expression,0.44,Unverified_placeholder
+interaction,,FCGR2A,PADI4,Molecular association,0.87,Unverified_placeholder
+interaction,,FCGR2A,SELL,Co-expression,0.91,Unverified_placeholder
+interaction,,FPR2,TLR2,Functional association,0.39,Unverified_placeholder
+interaction,,CASP4,CXCR2,Functional association,0.42,Unverified_placeholder
+interaction,,IL1RN,S100A12,Functional association,0.67,Unverified_placeholder
+interaction,,PRTN3,S100A12,Regulatory association,0.32,Unverified_placeholder
+interaction,,CSF3R,G0S2,Molecular association,0.66,Unverified_placeholder
+interaction,,CYBA,IL6,Regulatory association,0.54,Unverified_placeholder
+interaction,,MMP8,LTF,Regulatory association,0.93,Unverified_placeholder
+interaction,,TNFAIP3,SELL,Functional association,0.87,Unverified_placeholder
+interaction,,CD44,FCGR3B,Functional association,0.74,Unverified_placeholder
+interaction,,ICAM1,S100A9,Functional association,0.89,Unverified_placeholder
+interaction,,OSM,FCGR3B,Functional association,0.83,Unverified_placeholder
+interaction,,ITGAM,PADI4,Molecular association,0.83,Unverified_placeholder
+interaction,,TREM1,PADI4,Functional association,0.63,Unverified_placeholder
+interaction,,TLR4,FCGR2A,Regulatory association,0.43,Unverified_placeholder
+interaction,,S100A9,CCL4,Molecular association,0.92,Unverified_placeholder
+interaction,,CXCL8,CCL3,Molecular association,0.48,Unverified_placeholder
+interaction,,TREM1,FCGR2A,Co-expression,0.64,Unverified_placeholder
+interaction,,CXCL1,TREM1,Co-expression,0.78,Unverified_placeholder
+interaction,,GSDMD,HMGB1,Co-expression,0.57,Unverified_placeholder
+interaction,,FCGR3B,CAMP,Regulatory association,0.58,Unverified_placeholder
+interaction,,IL1B,CASP1,Regulatory association,0.82,Unverified_placeholder
+interaction,,OSM,CD44,Functional association,0.71,Unverified_placeholder
+interaction,,G0S2,CCL4,Molecular association,0.43,Unverified_placeholder
+interaction,,IL1B,CYBA,Regulatory association,0.9,Unverified_placeholder
+interaction,,MMP8,SOD2,Functional association,0.61,Unverified_placeholder
+interaction,,TNFAIP3,CXCL8,Functional association,0.5,Unverified_placeholder
+interaction,,FPR2,TREM1,Functional association,0.71,Unverified_placeholder
+interaction,,FCGR2A,CXCL2,Regulatory association,0.57,Unverified_placeholder
+interaction,,PADI4,DEFA1,Functional association,0.37,Unverified_placeholder
+interaction,,MMP8,IL1RN,Co-expression,0.87,Unverified_placeholder
+interaction,,CCL3,CASP1,Regulatory association,0.32,Unverified_placeholder
+interaction,,CXCL1,CCL4,Regulatory association,0.46,Unverified_placeholder
+interaction,,OSM,CXCL8,Regulatory association,0.68,Unverified_placeholder
+interaction,,TNFAIP3,CASP4,Functional association,0.31,Unverified_placeholder
+interaction,,CXCL2,CYBA,Functional association,0.83,Unverified_placeholder
+interaction,,IL1RN,CXCL1,Functional association,0.42,Unverified_placeholder
+interaction,,GSDMD,LTF,Co-expression,0.92,Unverified_placeholder
+interaction,,MPO,CCL4,Regulatory association,0.52,Unverified_placeholder
+interaction,,CYBA,MMP25,Functional association,0.82,Unverified_placeholder
+interaction,,NCF4,TNFAIP3,Co-expression,0.82,Unverified_placeholder
+interaction,,NCF4,FPR2,Co-expression,0.43,Unverified_placeholder
+interaction,,DEFA1,HMGB1,Functional association,0.7,Unverified_placeholder
+interaction,,TNFAIP3,ORM1,Functional association,0.84,Unverified_placeholder
+interaction,,ITGAM,CD44,Molecular association,0.77,Unverified_placeholder
+interaction,,CCL3,CYBA,Regulatory association,0.32,Unverified_placeholder
+interaction,,CCL3,TNF,Regulatory association,0.67,Unverified_placeholder
+interaction,,TLR4,TREM1,Regulatory association,0.6,Unverified_placeholder
+interaction,,S100A12,CD177,Regulatory association,0.55,Unverified_placeholder
+interaction,,FPR2,SOD2,Co-expression,0.54,Unverified_placeholder
+interaction,,NCF4,ITGAM,Functional association,0.44,Unverified_placeholder
+interaction,,CYBB,LCN2,Molecular association,0.35,Unverified_placeholder
+interaction,,CYBA,S100A8,Functional association,0.49,Unverified_placeholder
+interaction,,FCGR2A,IL1B,Regulatory association,0.39,Unverified_placeholder
+interaction,,SOD2,LTF,Regulatory association,0.89,Unverified_placeholder
+interaction,,CAMP,NCF1,Co-expression,0.7,Unverified_placeholder
+interaction,,ICAM1,NCF4,Molecular association,0.87,Unverified_placeholder
+interaction,,S100A12,ICAM1,Regulatory association,0.77,Unverified_placeholder
+interaction,,LCN2,PRTN3,Co-expression,0.74,Unverified_placeholder
+interaction,,S100A8,S100A12,Functional association,0.79,Unverified_placeholder
+interaction,,MMP25,PRTN3,Regulatory association,0.65,Unverified_placeholder
+interaction,,CXCR2,LTF,Regulatory association,0.42,Unverified_placeholder
+interaction,,LCN2,FCGR3B,Co-expression,0.85,Unverified_placeholder
+interaction,,FCGR2A,ORM1,Functional association,0.42,Unverified_placeholder
+interaction,,CSF3R,CCL3,Functional association,0.77,Unverified_placeholder
+interaction,,CXCL2,CXCR2,Molecular association,0.32,Unverified_placeholder
+interaction,,CASP4,CXCL1,Functional association,0.77,Unverified_placeholder
+interaction,,ORM1,S100A12,Co-expression,0.9,Unverified_placeholder
+interaction,,S100A9,CSF3R,Functional association,0.95,Unverified_placeholder
+interaction,,S100A8,CAMP,Co-expression,0.38,Unverified_placeholder
+interaction,,CXCL1,MMP25,Co-expression,0.38,Unverified_placeholder
+interaction,,CXCL8,CD177,Molecular association,0.79,Unverified_placeholder
+interaction,,ICAM1,GSDMD,Co-expression,0.44,Unverified_placeholder
+interaction,,DEFA1,SOD2,Molecular association,0.32,Unverified_placeholder
+interaction,,TNFAIP3,PRTN3,Molecular association,0.77,Unverified_placeholder
+interaction,,CYBB,CXCL2,Co-expression,0.88,Unverified_placeholder
+interaction,,MPO,NCF2,Regulatory association,0.56,Unverified_placeholder
+interaction,,CAMP,MMP9,Regulatory association,0.63,Unverified_placeholder
+interaction,,IL1B,CXCL8,Molecular association,0.42,Unverified_placeholder
+interaction,,NCF2,SOD2,Regulatory association,0.64,Unverified_placeholder
+interaction,,NLRP3,LCN2,Functional association,0.56,Unverified_placeholder
+interaction,,MMP8,OSM,Regulatory association,0.39,Unverified_placeholder
+interaction,,S100A8,ICAM1,Co-expression,0.91,Unverified_placeholder
+interaction,,CYBB,MMP9,Regulatory association,0.63,Unverified_placeholder
+interaction,,CXCL2,TREM1,Co-expression,0.33,Unverified_placeholder
+interaction,,CYBA,LTF,Regulatory association,0.45,Unverified_placeholder
+interaction,,IL1RN,HMGB1,Co-expression,0.79,Unverified_placeholder
+interaction,,ORM1,SOD2,Functional association,0.85,Unverified_placeholder
+interaction,,LTF,LCN2,Functional association,0.5,Unverified_placeholder
+interaction,,ORM1,LTF,Co-expression,0.69,Unverified_placeholder
+interaction,,TREM1,S100A8,Regulatory association,0.63,Unverified_placeholder
+interaction,,NCF1,IL1RN,Co-expression,0.67,Unverified_placeholder
+interaction,,MMP8,CXCL1,Co-expression,0.76,Unverified_placeholder
+interaction,,NCF1,MMP8,Co-expression,0.58,Unverified_placeholder
+interaction,,FCGR3B,MMP9,Co-expression,0.52,Unverified_placeholder
+interaction,,CD44,CXCL2,Regulatory association,0.66,Unverified_placeholder
+interaction,,DEFA1,CASP1,Functional association,0.31,Unverified_placeholder
+interaction,,PRTN3,SELL,Molecular association,0.57,Unverified_placeholder
+interaction,,MPO,CAMP,Functional association,0.36,Unverified_placeholder
+interaction,,NLRP3,TREM1,Functional association,0.91,Unverified_placeholder
+interaction,,TLR4,MPO,Functional association,0.66,Unverified_placeholder
+interaction,,DEFA1,CXCL2,Functional association,0.44,Unverified_placeholder
+interaction,,CXCR2,PADI4,Regulatory association,0.6,Unverified_placeholder
+interaction,,ICAM1,SOD2,Functional association,0.66,Unverified_placeholder
+interaction,,MMP8,FCGR3B,Functional association,0.83,Unverified_placeholder
+interaction,,CXCL2,S100A12,Functional association,0.56,Unverified_placeholder
+interaction,,GSDMD,TNFAIP3,Functional association,0.55,Unverified_placeholder
+interaction,,CXCL1,CSF3R,Functional association,0.63,Unverified_placeholder
+interaction,,S100A8,PRTN3,Molecular association,0.85,Unverified_placeholder
+interaction,,MMP25,FCGR2A,Molecular association,0.76,Unverified_placeholder
+interaction,,CCL3,ELANE,Co-expression,0.68,Unverified_placeholder
+interaction,,S100A12,TNF,Functional association,0.74,Unverified_placeholder
+interaction,,HMGB1,CYBB,Regulatory association,0.49,Unverified_placeholder
+interaction,,ITGAM,FCGR3B,Molecular association,0.95,Unverified_placeholder
+interaction,,S100A9,NLRP3,Molecular association,0.68,Unverified_placeholder
+interaction,,CXCL1,ORM1,Co-expression,0.55,Unverified_placeholder
+interaction,,NCF2,S100A8,Molecular association,0.75,Unverified_placeholder
+interaction,,FPR2,CCL3,Co-expression,0.5,Unverified_placeholder
+interaction,,TNF,CASP1,Molecular association,0.84,Unverified_placeholder
+interaction,,CXCR2,IL6,Molecular association,0.8,Unverified_placeholder
+interaction,,SELL,CXCL2,Functional association,0.43,Unverified_placeholder
+interaction,,CASP1,S100A12,Functional association,0.8,Unverified_placeholder
+interaction,,MPO,NLRP3,Co-expression,0.59,Unverified_placeholder
+interaction,,CYBB,CAMP,Functional association,0.46,Unverified_placeholder
+interaction,,ITGAM,S100A9,Functional association,0.47,Unverified_placeholder
+interaction,,NCF4,S100A12,Functional association,0.71,Unverified_placeholder
+interaction,,CXCR2,IL1B,Regulatory association,0.5,Unverified_placeholder
+interaction,,CYBB,TREM1,Regulatory association,0.57,Unverified_placeholder
+interaction,,ORM1,TREM1,Regulatory association,0.39,Unverified_placeholder
+interaction,,MPO,LCN2,Functional association,0.62,Unverified_placeholder
+interaction,,OSM,DEFA1,Functional association,0.8,Unverified_placeholder
+interaction,,ITGAM,CSF3R,Molecular association,0.47,Unverified_placeholder
+interaction,,CXCL1,CCL3,Regulatory association,0.59,Unverified_placeholder
+interaction,,IL6,CYBB,Regulatory association,0.39,Unverified_placeholder
+interaction,,S100A9,CXCL8,Co-expression,0.32,Unverified_placeholder
+interaction,,PADI4,NCF1,Regulatory association,0.61,Unverified_placeholder
+interaction,,PADI4,SOD2,Regulatory association,0.48,Unverified_placeholder
+interaction,,CXCL8,TNF,Molecular association,0.57,Unverified_placeholder
+interaction,,TLR2,IL6,Regulatory association,0.9,Unverified_placeholder
+interaction,,CXCR2,CCL4,Regulatory association,0.73,Unverified_placeholder
+interaction,,SELL,CD177,Functional association,0.44,Unverified_placeholder
+interaction,,TREM1,TNFAIP3,Regulatory association,0.5,Unverified_placeholder
+interaction,,S100A8,CCL3,Co-expression,0.89,Unverified_placeholder
+interaction,,CD177,IL1RN,Functional association,0.74,Unverified_placeholder
+interaction,,TLR2,CSF3R,Co-expression,0.7,Unverified_placeholder
+interaction,,S100A8,DEFA1,Regulatory association,0.77,Unverified_placeholder
+interaction,,NLRP3,NCF2,Molecular association,0.85,Unverified_placeholder
+interaction,,CASP1,S100A8,Regulatory association,0.42,Unverified_placeholder
+interaction,,NCF2,NCF4,Co-expression,0.48,Unverified_placeholder
+interaction,,CXCL1,CD177,Functional association,0.85,Unverified_placeholder
+interaction,,CSF3R,CXCL8,Functional association,0.46,Unverified_placeholder
+interaction,,MMP8,MPO,Regulatory association,0.47,Unverified_placeholder
+interaction,,CD44,DEFA1,Regulatory association,0.76,Unverified_placeholder
+interaction,,FPR2,FCGR3B,Regulatory association,0.64,Unverified_placeholder
+interaction,,S100A9,MMP8,Functional association,0.85,Unverified_placeholder
+interaction,,FCGR2A,TNF,Functional association,0.7,Unverified_placeholder
+interaction,,IL1RN,NCF2,Functional association,0.6,Unverified_placeholder
+interaction,,CD44,ICAM1,Functional association,0.71,Unverified_placeholder
+interaction,,NCF1,CXCR2,Molecular association,0.77,Unverified_placeholder
+interaction,,LCN2,IL1B,Regulatory association,0.93,Unverified_placeholder
+interaction,,S100A12,GSDMD,Regulatory association,0.78,Unverified_placeholder
+interaction,,IL6,NCF1,Co-expression,0.59,Unverified_placeholder
+interaction,,HMGB1,NCF4,Regulatory association,0.48,Unverified_placeholder
+interaction,,CXCL8,PRTN3,Regulatory association,0.6,Unverified_placeholder
+interaction,,MMP9,CXCL2,Co-expression,0.48,Unverified_placeholder
+interaction,,CAMP,FCGR2A,Functional association,0.35,Unverified_placeholder
+interaction,,CSF3R,FPR2,Molecular association,0.82,Unverified_placeholder
+interaction,,S100A9,CCL3,Functional association,0.86,Unverified_placeholder
+interaction,,CCL3,OSM,Functional association,0.54,Unverified_placeholder
+interaction,,PADI4,GSDMD,Regulatory association,0.47,Unverified_placeholder
+interaction,,MMP25,NCF1,Molecular association,0.93,Unverified_placeholder
+interaction,,G0S2,CXCL2,Regulatory association,0.55,Unverified_placeholder
+interaction,,PI3,PADI4,Functional association,0.92,Unverified_placeholder
+interaction,,FCGR2A,GSDMD,Functional association,0.51,Unverified_placeholder
+interaction,,TLR2,GSDMD,Functional association,0.82,Unverified_placeholder
+interaction,,LTF,G0S2,Regulatory association,0.68,Unverified_placeholder
+interaction,,TNF,DEFA1,Functional association,0.83,Unverified_placeholder
+interaction,,HMGB1,IL1B,Functional association,0.78,Unverified_placeholder
+interaction,,CSF3R,CYBA,Molecular association,0.65,Unverified_placeholder
+interaction,,NCF2,FCGR3B,Functional association,0.37,Unverified_placeholder
+interaction,,MMP25,CD177,Regulatory association,0.46,Unverified_placeholder
+interaction,,CAMP,IL1RN,Co-expression,0.89,Unverified_placeholder
+interaction,,CD44,MPO,Regulatory association,0.61,Unverified_placeholder
+interaction,,CYBA,TNF,Regulatory association,0.41,Unverified_placeholder
+interaction,,IL1B,TNF,Functional association,0.58,Unverified_placeholder
+interaction,,G0S2,DEFA1,Regulatory association,0.83,Unverified_placeholder
+interaction,,NCF2,CYBA,Regulatory association,0.87,Unverified_placeholder
+interaction,,CASP4,DEFA1,Molecular association,0.73,Unverified_placeholder
+interaction,,NLRP3,CYBB,Regulatory association,0.48,Unverified_placeholder
+interaction,,G0S2,IL1B,Regulatory association,0.38,Unverified_placeholder
+interaction,,S100A9,FCGR3B,Regulatory association,0.32,Unverified_placeholder
+interaction,,FCGR3B,CXCR2,Molecular association,0.88,Unverified_placeholder
+interaction,,LTF,CASP1,Molecular association,0.78,Unverified_placeholder
+interaction,,NCF2,TNF,Molecular association,0.69,Unverified_placeholder
+interaction,,PI3,MMP8,Regulatory association,0.76,Unverified_placeholder
